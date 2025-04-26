@@ -1,0 +1,31 @@
+header{
+    background-color: BlueViolet;
+    padding:20px 30px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:15px;
+    top: 0;
+    left:0;
+    width:100%;
+    position:fixed;
+    max-width: none;
+}
+
+header nav{
+    display: flex;
+    align-items: center;
+    gap: 95px;
+}
+
+header nav a{
+    color: white;
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+}
+header img{
+    width: 42px;
+    height: 53px;
+}
